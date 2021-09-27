@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Daveflanik@gmail.com
-	name = Flanik David
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = David Flanik daveflanik@gmail.com
